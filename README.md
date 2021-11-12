@@ -2,7 +2,7 @@
 
 ## Beam's Deformation
 
-![alt text](https://github.com/deepak046/HMSM-beam/Beam_deformation.png "Beam Deformation")
+![Beam Deformation](https://github.com/deepak046/HMSM-beam/Beam_deformation.png "Beam Deformation")
 
 ## Theoretical Formulation of a Hard Magnetic Soft Material Beam
 
