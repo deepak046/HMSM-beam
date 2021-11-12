@@ -1,4 +1,4 @@
-function del = delta(Pi0,eps,x,Fx,Fz,theta,B,alpha,P,Q, S,th)
+function del = delt(Pi0,eps,x,Fx,Fz,theta,B,alpha,P,Q, S,th)
 
     if (S == 1)
         S1 = 1;
