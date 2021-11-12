@@ -1,4 +1,9 @@
 ### HMSM-beam
+
+## Beam's Deformation
+
+![alt text](https://github.com/deepak046/HMSM-beam/Beam_deformation.png "Beam Deformation")
+
 ## Theoretical Formulation of a Hard Magnetic Soft Material Beam
 
 # Papers 1 and 2 used for validation of my Beam Model
