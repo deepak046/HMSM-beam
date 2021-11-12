@@ -1,4 +1,4 @@
-function dydx = HMSMpape(x,y,P,Q,C,S,alpha,beta,B,Pi0)
+function dydx = HMSMpaper(x,y,P,Q,C,S,alpha,beta,B,Pi0)
    
     %Pi0 = 10000;
     %P = 0; 
