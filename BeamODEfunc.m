@@ -1,4 +1,4 @@
-function dydx = BeamODEfun(x,y,P,Q,C,S,alpha,beta,B,eps)
+function dydx = BeamODEfunc(x,y,P,Q,C,S,alpha,beta,B,eps)
    
     %Pi0 = 10000;
     %P = 0; 
