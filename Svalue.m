@@ -1,4 +1,4 @@
-function S1 = Svalu(S,x)
+function S1 = Svalue(S,x)
     
     if (S == 1)
         S1 = 1;
