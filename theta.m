@@ -7,5 +7,5 @@ function y = theta(eps,P,Q,C,S,alpha,beta,B)
         sol = bvp4c(@(x,y) BeamODEfun(x,y,P,Q,C,S,alpha,beta,B,eps), @bc, solinit, opts);
         xint = xlow:0.01:xhigh;
         Sxint = deval(sol,xint);
-        y = Sxint(1,:)
+        y = Sxint(1,:);
 end
